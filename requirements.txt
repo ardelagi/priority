@@ -1,0 +1,7 @@
+discord.py>=2.3
+python-dotenv>=1.0.1
+motor>=3.4
+pydantic>=2.8
+apscheduler>=3.10
+aiohttp>=3.9
+uvloop; platform_system!="Windows"
