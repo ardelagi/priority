@@ -1,5 +1,4 @@
-
-from ..services.bot_logger_service import logger
+from services.bot_logger_service import logger
 from .button_controller import handle_button
 from .modal_controller import handle_modal
 
